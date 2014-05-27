@@ -17,7 +17,7 @@
         <title>Avaliacao A1/2</title>
     </head>
     <body>
-        <h1><strong>Pesquisa de Satisfacao TDC 2014</strong></h1>
+        <h1><strong>Pesquisa de Satisfacao TDC</strong></h1>
 
         <fieldset>
 
